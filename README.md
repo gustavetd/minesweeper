@@ -1,4 +1,4 @@
-# repoOne
+
 # Minesweeper
 Basic minesweeper game
 Java and Java swing for the GUI
