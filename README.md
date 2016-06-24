@@ -13,4 +13,4 @@ Left clic to reveal cell
 CTRL clic to flag cell
 
 
-Original graphics, Helvetica thanks to  Eduard Hoffmann and Max Miedinge
+Original graphics, Helvetica font thanks to  Eduard Hoffmann and Max Miedinge
