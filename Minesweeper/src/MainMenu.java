@@ -42,6 +42,7 @@ public class MainMenu extends JFrame implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		NewGameWindow newGame = new NewGameWindow(this.grid);
+		MainWindow mainWindow = new MainWindow(grid, newGame.panel, newGame);
 		
 		
 	}
